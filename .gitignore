@@ -1,0 +1,12 @@
+*.sln
+*.csproj
+*.cache
+*.exe
+HelloWorld/HelloWorld/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+*.vsidx
+*.lock
+*.suo
+*.config
+*.pdb
+HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.FileListAbsolute.txt
+HelloWorld/HelloWorld/Properties/AssemblyInfo.cs
